@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Boutique Management System 👗🧾
 
 A simple Java-based Boutique Management System that simulates the core functionalities of managing a boutique shop — from products and customers to sales and inventory.
@@ -88,3 +89,12 @@ Quantity Sold: 2
 Sale Date: Wed Aug 27 23:34:05 EEST 2025
 User: admin1 | Role: Admin
 
+=======
+## UML Diagrams
+
+### Class Diagram
+![Class Diagram](diagrams/class-diagram.png)
+
+### Sequence Diagram
+![Sequence Diagram](diagrams/sequence-diagram.png)
+>>>>>>> 04ed331 (Update README with UML diagrams)
