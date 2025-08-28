@@ -42,6 +42,14 @@ The system includes the following classes:
 | `Stock`     | Tracks available quantities for each product         |
 | `User`      | Represents users with roles (e.g., Admin)            |
 | `Main`      | Runs and tests all class interactions                |
+
+## 📊 UML Diagrams
+![Class Diagram](diagrams/activity.png)
+![class Diagram](diagrams/class.jpg)
+![erd Diagram](diagrams/erd.jpg)
+![Sequence Diagram](diagrams/sequense.jpg)
+![state Diagram](diagrams/state.jpg)
+
 ## 🧠 Skills Practiced
 
 - Java OOP (constructors, getters/setters)
